@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cordovas-cmd/Lore-Craft-Adventure/static/css/main.a617e044.chunk.css",
+    "main.js": "/Cordovas-cmd/Lore-Craft-Adventure/static/js/main.e8ef7350.chunk.js",
+    "main.js.map": "/Cordovas-cmd/Lore-Craft-Adventure/static/js/main.e8ef7350.chunk.js.map",
+    "runtime-main.js": "/Cordovas-cmd/Lore-Craft-Adventure/static/js/runtime-main.35bb3750.js",
+    "runtime-main.js.map": "/Cordovas-cmd/Lore-Craft-Adventure/static/js/runtime-main.35bb3750.js.map",
+    "static/js/2.d1a3b919.chunk.js": "/Cordovas-cmd/Lore-Craft-Adventure/static/js/2.d1a3b919.chunk.js",
+    "static/js/2.d1a3b919.chunk.js.map": "/Cordovas-cmd/Lore-Craft-Adventure/static/js/2.d1a3b919.chunk.js.map",
+    "static/js/3.55e89115.chunk.js": "/Cordovas-cmd/Lore-Craft-Adventure/static/js/3.55e89115.chunk.js",
+    "static/js/3.55e89115.chunk.js.map": "/Cordovas-cmd/Lore-Craft-Adventure/static/js/3.55e89115.chunk.js.map",
+    "index.html": "/Cordovas-cmd/Lore-Craft-Adventure/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Cordovas-cmd/Lore-Craft-Adventure/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d1a3b919.chunk.js.LICENSE.txt": "/Cordovas-cmd/Lore-Craft-Adventure/static/js/2.d1a3b919.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Cordovas-cmd/Lore-Craft-Adventure/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35bb3750.js",
+    "static/js/2.d1a3b919.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e8ef7350.chunk.js"
+  ]
+}
